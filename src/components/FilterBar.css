@@ -1,0 +1,9 @@
+.filter-bar {
+    margin: 1.5rem;
+    margin-left: 5rem;
+}
+
+.filter-bar input {
+    width: 250px;
+    height: 25px;
+}

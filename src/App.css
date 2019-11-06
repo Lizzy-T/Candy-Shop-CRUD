@@ -1,22 +1,27 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Lato|McLaren&display=swap');
+
+body {
+	line-height: 1;
 }
 
-.App-logo {
-  height: 40vmin;
+ol, ul {
+	list-style: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+blockquote, q {
+	quotes: none;
+}
+
+h1, h2, h3 {
+  font-family: 'McLaren', cursive;
+}
+
+h4, h5, h6, p {
+  font-family: 'Lato', sans-serif;
+}
+
+header {
+  background-color: black;
   color: white;
-}
-
-.App-link {
-  color: #09d3ac;
+  padding: 3rem;
 }

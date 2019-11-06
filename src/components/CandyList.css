@@ -1,0 +1,7 @@
+.candy-list {
+    margin: 3rem ;
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    justify-content: flex-start;
+}
